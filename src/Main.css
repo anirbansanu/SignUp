@@ -1,0 +1,6 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(4, 13, 33);
+    font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace !important;
+}
